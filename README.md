@@ -20,9 +20,10 @@ Aplikasi ini memiliki berbagai kemampuan, di antaranya:
 
 Proses penggunaan aplikasi ini cukup sederhana. Pengguna memilih jumlah kursi yang ingin dipesan, kemudian memasukkan data penumpang sesuai dengan jumlah kursi yang dipilih. Selanjutnya, pengguna memilih tujuan, kelas, dan jadwal penerbangan yang diinginkan. Setelah itu, pengguna menyelesaikan proses reservasi pesawat.
 
-Dengan adanya sistem pemesanan online "Swift Air" ini, diharapkan dapat memberikan kemudahan dan efisiensi dalam pemesanan tiket pesawat, serta meningkatkan pengalaman pengguna dan kualitas layanan secara keseluruhan.
-
+Dengan adanya sistem pemesanan online "Swift Air" ini, diharapkan dapat memberikan kemudahan dan efisiensi dalam pemesanan tiket pesawat, serta meningkatkan pengalaman pengguna dan kualitas layanan secara keseluruhan. Dari sisi penyadia jasa penambahan penerbangan dapat dilakukan oleh admin dengan mudah hanya dengan mengisi form pada halaman admin. Admin juga dapat memantau transaksi yang terjadi pada halaman swift air.
 
 ## Swift Air
 
 SwiftAir adalah sebuah website reservasi tiket pesawat yang menawarkan pengalaman perjalanan domestik. Pada laman utama, pengguna dapat dengan mudah melakukan login atau sign up. Di dashboard, pengguna dapat memilih tujuan, tanggal, kelas, dan jumlah penumpang, serta menemukan penerbangan yang sesuai dengan preferensi mereka. Dengan opsi penerbangan tunggal atau dengan transit, SwiftAir memberikan fleksibilitas dalam merencanakan perjalanan. Setelah memilih penerbangan, pengguna dapat mengisi detail penumpang, seperti nama dan NIK, lalu melanjutkan ke proses pembayaran yang aman dengan nomor kartu kredit, tanggal valid, CVV, dan nama di kartu. Setelah pembayaran berhasil, pengguna akan menerima notifikasi pembayaran berhasil. SwiftAir juga menyediakan halaman akun yang memungkinkan pengguna mengelola informasi pribadi mereka dan melihat riwayat pemesanan pesawat, termasuk yang sedang berlangsung dan yang telah selesai.
+
+Dari sisi penyedia jasa (swift air), penambahan penerbangan dapat dilakukan dengan mengisikan beberapa informasi layanan seperti asal dan tujuan, waktu, harga dan tipe pesawat yang dimiliki penyedia jasa. Hasil penambahan dapat diakses oleh pengguna layanan berdasarkan kriteria filter dengan mudah di halaman pencarian.
